@@ -7,7 +7,7 @@
 
 $host = "db4free.net";
 $username = "jpaconcepcion";
-$password = "12345678";
+$password = 12345678;
 $dbname = "jpctodolist";
 
 $conn = mysqli_connect($host,$username,$password,$dbname);
